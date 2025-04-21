@@ -1,0 +1,1 @@
+Simple keyboard layout with lower and uppercase letters. Based on the Russian (Swedish phonetic, no dead keys) Linux ЯВЕРТЫ keyboard layout, for Finnish Nordic keyboard layout. If you want to add something for yourself, I added the KCL file that can be imported into Windows Keyboard Layout Creator. 
